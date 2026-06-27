@@ -21,8 +21,11 @@ The Super Market  Store wants to create an annual sales report for 2026. So that
 
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same.
+
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
+
 •	Created pivot tables according to the questions asked.
+
 •	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
@@ -30,10 +33,15 @@ The Super Market  Store wants to create an annual sales report for 2026. So that
 
 ## Project Insight
 •	Women customers are more likely to buy products compared to men (~65%).
+
 •	The region of west, north made high profit on table buyer.
+
 •	 Profit increased in 2025, contributing 54.83% of total profit. This indicates positive business growth over time.
+
 •	South region achieved the highest sales and profit. 
+
 •	West generated higher profit than East and North despite lower sales
+
 ## Final Conclusion
 The dashboard revealed that Office Supplies is the most profitable category, Storage is the leading sales sub-category, profit grew significantly in 2025, and the South region delivered the strongest overall performance. These insights can help management improve inventory planning, optimize product strategies, and make data-driven business decisions to increase profitability and growth.
 
