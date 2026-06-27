@@ -6,12 +6,19 @@ The Super Market  Store wants to create an annual sales report for 2026. So that
 ## Questions(KPIs)
 •	Compare the sales and Product_category  using single chart.
 •	Which month got the highest sales and orders?
+
 •	What are different order status in 2022?
+
 •	List highest Region contributingto the sales?
+
 •	Which Category is contributing maximum to the sales?
+
 •	Which product month wise making good profit?
+
 •	Highest selling category?
+
 •	Percentage of Total Profit
+
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same.
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
