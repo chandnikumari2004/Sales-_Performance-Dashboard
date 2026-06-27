@@ -1,5 +1,5 @@
 # Super-Market Store Data Analysis(Excel,Pivot Tables,KPI)
-##Project Objective
+## Project Objective: 
 The Super Market  Store wants to create an annual sales report for 2026. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2024 & 2025.
 ## DataSet Used
 <a href="https://github.com/chandnikumari2004/Sales-_Performance-Dashboard/blob/main/Sample_Superstore_Practice.xlsx">DataSet</a>
